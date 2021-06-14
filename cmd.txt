@@ -1,0 +1,8 @@
+Fixed:
+python3 launcher.py -l n
+
+Learning:
+python3 launcher.py -l a
+
+Region:
+python3 launcher.py -l a -region nets_data/Grid4x4/regions_std.json -ai 0.00001
